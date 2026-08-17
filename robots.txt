@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-9h101g.nuansa138.site/sitemap.xml
